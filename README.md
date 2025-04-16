@@ -45,8 +45,9 @@ pip install html2text
 
 ---
 
-## 📬 Contato
-Desenvolvido por Willian Albarello
-🌐 shnose.netlify.app
-🐙 GitHub
+## 📬 **Contato**
+  Desenvolvido por Willian Albarello
+  🌐 shnose.netlify.app
+  🐙 GitHub
 
+---
