@@ -43,9 +43,10 @@ Você precisa da biblioteca `html2text`. Instale com:
 ```bash
 pip install html2text
 
-📬 Contato
+---
+
+## 📬 Contato
 Desenvolvido por Willian Albarello
 🌐 shnose.netlify.app
-📧 willialbarello@gmail.com
 🐙 GitHub
 
